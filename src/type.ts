@@ -15,4 +15,4 @@ let hauiretu: (string | number | boolean)[] = [1, false, 'Japan'];
 console.log(hauiretu);
 
 let profile: [string, number] = ['takuya', 29];
-profile = [27, 'taku'];
+//profile = [27, 'taku'];
